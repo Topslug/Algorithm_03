@@ -56,8 +56,6 @@
 
 # Images and Corresponding probability that are predicted wrong
 
-![Training Step](https://user-images.githubusercontent.com/53007295/83225673-419d3700-a1bb-11ea-9199-9f691b0cfd7f.png)
-
 ## Model 1
 ![Model 1_Wrong predictions](https://user-images.githubusercontent.com/53007295/83225652-3a762900-a1bb-11ea-9cb4-cd1bfca38bdc.png)
 
