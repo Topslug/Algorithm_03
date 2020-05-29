@@ -45,18 +45,24 @@
 # Images and Corresponding probability that are predicted right
 
 ## Model 1
-![Model 1_Right predictions](https://user-images.githubusercontent.com/53007295/83225648-3944fc00-a1bb-11ea-9722-d8fb546138f2.png)
+![Model 1_Right predictions](https://user-images.githubusercontent.com/53007295/83227092-516a4a80-a1be-11ea-93b8-46033112f222.png)
+
 ## Model 2
-![Model 2_Right predictions](https://user-images.githubusercontent.com/53007295/83225656-3c3fec80-a1bb-11ea-9a3e-6a6fa8729930.png)
+![Model 2_Right predictions](https://user-images.githubusercontent.com/53007295/83227094-5202e100-a1be-11ea-8dfb-6e5ea6932b7d.png)
+
 ## Model 3
-![Model 3_Right predictions](https://user-images.githubusercontent.com/53007295/83225666-3fd37380-a1bb-11ea-9e19-c451d2c06338.png)
+![Model 3_Right predictions](https://user-images.githubusercontent.com/53007295/83227095-529b7780-a1be-11ea-9470-22694cc0006f.png)
+
 
 # Images and Corresponding probability that are predicted wrong
 
 ![Training Step](https://user-images.githubusercontent.com/53007295/83225673-419d3700-a1bb-11ea-9199-9f691b0cfd7f.png)
+
 ## Model 1
 ![Model 1_Wrong predictions](https://user-images.githubusercontent.com/53007295/83225652-3a762900-a1bb-11ea-9cb4-cd1bfca38bdc.png)
+
 ## Model 2
 ![Model 2_Wrong predictions](https://user-images.githubusercontent.com/53007295/83225659-3cd88300-a1bb-11ea-9162-73d7c4064741.png)
+
 ## Model 3
 ![Model 3_Wrong predictions](https://user-images.githubusercontent.com/53007295/83225670-406c0a00-a1bb-11ea-9cc8-e41611829f46.png)
