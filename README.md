@@ -28,6 +28,13 @@
 
 ![Test Step](https://user-images.githubusercontent.com/53007295/83225671-4104a080-a1bb-11ea-9d0c-39b271215879.png)
 
+## Model 1
+![Model 1_Test Step](https://user-images.githubusercontent.com/53007295/83226394-e2402680-a1bc-11ea-9c94-124f212d8c3f.png)
+## Model 2
+![Model 2_Test Step](https://user-images.githubusercontent.com/53007295/83226399-e53b1700-a1bc-11ea-8d78-a2281a24f3b2.png)
+## Model 3
+![Model 3_Test Step](https://user-images.githubusercontent.com/53007295/83226404-e79d7100-a1bc-11ea-960e-0a317585cc34.png)
+
 # Images and Corresponding probability that are predicted right
 
 ## Model 1
